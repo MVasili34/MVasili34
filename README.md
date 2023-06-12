@@ -25,17 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
 </div>
 
----
 
-### 🛠 Инструменты:
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" title="vs" alt="vs" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="vsc" alt="vsc" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" title="postman" alt="pstman" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/1024px-DataGrip.svg.png" title="datagrip" alt="datagrip" width="40" height="40"/>&nbsp;
-</div>
 <!--
 **MVasili34/MVasili34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
