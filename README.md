@@ -2,11 +2,18 @@
 ---
 ### 💬 Обо мне ...
 
-Я начинающий .NET Backend разработчик. На данный момент изучаю .NET 7, а также архитектуру современных кроссплатформенных приложений с применением ASP .NET Core MVC, Blazor и .NET MAUI. Имею практику построения и применения REST API. Интересует архитектура Blazor-приложений на основе WebAssembley.
+Я начинающий .NET Backend разработчик. На данный момент изучаю .NET 7, а также архитектуру современных кроссплатформенных приложений с применением ASP .NET Core MVC, Blazor и .NET MAUI Hybrid. Имею практику построения и применения REST API. Интересует архитектура Blazor-приложений на основе WebAssembley.
+
+
+
 
 - 🔭 Прошёл практику в компании Dex
+ 
 - 🌱 На данный момент читаю книгу Apps and Services with .NET 7 - Mark J. Price
+  
 - 🥇 Я и моя каманда заняли III место на AI Хакатоне компании Dex
+  
+- 📫 Связь со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vasili.dubov10@gmail.com)
  
 
 ---
@@ -15,17 +22,16 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" title="net" alt="net-core" width="40" height="40"/>&nbsp
-  <img src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png" title="netmaui" alt="netmaui" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/600px-Blazor.png" title="blazor" alt="blazor" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" title="wasm" alt="wasm" width="40" height="40"/>&nbsp
+  <img src="https://github.com/MVasili34/MVasili34/assets/117523384/075e3701-343f-434d-a6ab-3c9de26f08b1" title="net" alt="net-core" width="40" height="40"/>&nbsp
+  <img src="https://github.com/MVasili34/MVasili34/assets/117523384/e0accae9-d68d-4ddf-a74b-7633a64bd13d" title="netmaui" alt="netmaui" width="40" height="40"/>&nbsp
+  <img src="https://github.com/MVasili34/MVasili34/assets/117523384/3e56549e-b4cd-4bb8-8945-df5c48366759" title="blazor" alt="blazor" width="40" height="40"/>&nbsp
+  <img src="https://github.com/MVasili34/MVasili34/assets/117523384/ba5deb7e-70a5-4f01-9ae3-1019caaf8479" title="wasm" alt="wasm" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" title="graphql" alt="graphql" width="40" height="40"/>&nbsp
+  <img src="https://github.com/MVasili34/MVasili34/assets/117523384/99fdfcd4-679a-435f-bc03-60256d95d19f" title="graphql" alt="graphql" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
 </div>
-
 
 <!--
 **MVasili34/MVasili34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
