@@ -46,7 +46,7 @@
 ### 🌱 Статистика LeetCode
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/MVasili34?theme=dark&font=Basic&ext=heatmap" alt="LeetCode Stats" height="45%" width="45%">
+  <img src="https://leetcard.jacoblin.cool/MVasili34?theme=dark&font=Basic&ext=heatmap" alt="LeetCode Stats" >
 </div>
 <!--
 **MVasili34/MVasili34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
