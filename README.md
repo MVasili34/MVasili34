@@ -40,12 +40,14 @@
 - ⚡ Apps and Services with .NET 7 - Mark J. Price
 - ⚡ C# 10 и .NET 6 - Современная кросс-платформенная разработка - Марк Дж. Прайс
 
-<!--
+
 ---
 
 ### 🌱 Статистика LeetCode
 
-### ![LeetCode Stats](https://leetcard.jacoblin.cool/MVasili34?theme=dark&font=Basic&ext=heatmap) -->
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/MVasili34?theme=dark&font=Basic&ext=heatmap" alt="LeetCode Stats">
+</div>
 <!--
 **MVasili34/MVasili34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
