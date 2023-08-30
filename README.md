@@ -13,7 +13,7 @@
   
 - 🥇 Я и моя каманда заняли III место на AI Хакатоне компании Dex
   
-- 📫 Связь со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vasili.dubov10@gmail.com)
+<!--- 📫 Связь со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vasili.dubov10@gmail.com) -->
  
 
 ---
