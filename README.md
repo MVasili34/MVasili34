@@ -26,7 +26,7 @@
   <img src="https://github.com/MVasili34/MVasili34/assets/117523384/e0accae9-d68d-4ddf-a74b-7633a64bd13d" title="netmaui" alt="netmaui" width="40" height="40"/>&nbsp
   <img src="https://github.com/MVasili34/MVasili34/assets/117523384/3e56549e-b4cd-4bb8-8945-df5c48366759" title="blazor" alt="blazor" width="40" height="40"/>&nbsp
   <img src="https://github.com/MVasili34/MVasili34/assets/117523384/ba5deb7e-70a5-4f01-9ae3-1019caaf8479" title="wasm" alt="wasm" width="40" height="40"/>&nbsp
-<!--  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/MVasili34/MVasili34/assets/117523384/1f2a4911-e1bf-47b1-a2cc-615a70bff83c" title="odata" alt="graphql" width="40" height="40"/>&nbsp
   <img src="https://github.com/MVasili34/MVasili34/assets/117523384/99fdfcd4-679a-435f-bc03-60256d95d19f" title="graphql" alt="graphql" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
