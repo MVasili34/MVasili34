@@ -29,11 +29,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/MVasili34/MVasili34/assets/117523384/1f2a4911-e1bf-47b1-a2cc-615a70bff83c" title="odata" alt="graphql" width="40" height="40"/>&nbsp
   <img src="https://github.com/MVasili34/MVasili34/assets/117523384/99fdfcd4-679a-435f-bc03-60256d95d19f" title="graphql" alt="graphql" width="40" height="40"/>&nbsp
+  <img src="https://github.com/MVasili34/MVasili34/assets/117523384/b5edca18-52b4-4df2-937f-e425d91f9b64" title="docker" alt="docker" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
 </div>
-
 
 
 ---
