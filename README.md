@@ -25,7 +25,8 @@
   <img src="https://github.com/MVasili34/MVasili34/assets/117523384/ba5deb7e-70a5-4f01-9ae3-1019caaf8479" title="wasm" alt="wasm" width="40" height="40"/>&nbsp
   <img src="https://github.com/MVasili34/MVasili34/assets/117523384/1f2a4911-e1bf-47b1-a2cc-615a70bff83c" title="odata" alt="graphql" width="40" height="40"/>&nbsp
   <img src="https://github.com/MVasili34/MVasili34/assets/117523384/99fdfcd4-679a-435f-bc03-60256d95d19f" title="graphql" alt="graphql" width="40" height="40"/>&nbsp
-  <img src="https://github.com/MVasili34/MVasili34/assets/117523384/cd03786e-b942-4388-82ac-9e4220d0b4ac" title="polly" alt="plly" width="40" height="40"/>&nbsp
+  <img src="https://github.com/MVasili34/MVasili34/assets/117523384/cd03786e-b942-4388-82ac-9e4220d0b4ac" title="polly" alt="polly" width="40" height="40"/>&nbsp
+  <img src="https://github.com/MVasili34/MVasili34/assets/117523384/cd2fb428-7687-4967-b874-fb5404a778f7" title="quartz" alt="quartz" width="40" height="40"/>&nbsp
   <img src="https://github.com/MVasili34/MVasili34/assets/117523384/b5edca18-52b4-4df2-937f-e425d91f9b64" title="docker" alt="docker" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
