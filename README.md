@@ -39,7 +39,7 @@
 
 - ⚡ Apps and Services with .NET 7 & .NET 8 Editions - Mark J. Price
 - ⚡ C# In Depth - Jon Skeet
-- ⚡ C# 10 и .NET 6 - Современная кросс-платформенная разработка - Марк Дж. Прайс
+- ⚡ C# 10 и .NET 6 - Modern cross-platform development - Mark J. Price
 
 
 ---
